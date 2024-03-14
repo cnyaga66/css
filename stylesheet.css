@@ -1,0 +1,17 @@
+.title{
+    
+    color: rgb(17, 17, 17);
+
+    
+}
+
+.colours{
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+    height:10cm;
+    margin-bottom:2%;
+    
+
+}
+
